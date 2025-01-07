@@ -30,7 +30,9 @@ A structured online survey collected responses from 54 participants (mainly stud
 - Post-hoc power analysis revealed a moderate to large effect size but indicated the need for a larger sample to detect finer trends.
 
 ---
-
+## View the Report
+You can view the project report [here](https://drive.google.com/file/d/1JTLN-xsPrubOnYvYT-7ibrJ5qpIMVF4p/view?usp=sharing).
+---
 ## Key Findings
 
 1. **Green Packaging and Loyalty:**
