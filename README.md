@@ -17,7 +17,7 @@ This project investigates how green packaging influences consumer purchase behav
 ## Research Methodology
 
 ### **Data Collection:**
-A structured online survey collected responses from 54 participants across diverse demographics in India. Questions focused on general shopping preferences, awareness of green packaging, and its impact on purchase decisions and brand loyalty.
+A structured online survey collected responses from 54 participants (mainly students and Faculty). Questions focused on general shopping preferences, awareness of green packaging, and its impact on purchase decisions and brand loyalty.
 
 ### **Statistical Tools and Techniques:**
 - **Chi-Square Test of Independence**: Used to identify relationships between categorical variables.
